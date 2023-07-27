@@ -1,0 +1,233 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = panorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=2980%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = -35
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = 40
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = 65
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 70434197-9fde-4caf-8872-34b45e917bb11688285046514
+  y = 348
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 13c9b4ae-23e1-4f93-870c-e7f2abe5761d1688285046514
+  y = 167
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 3c06a5a0-c0c4-4c5d-a9ec-c993b466078b1688285046515
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = b64ee8c7-b21c-4f2d-aa08-3c8f8f2ef6c21688285046515
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = mid-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;play.jellycraft.net%btnaction_splitter_fm%
+  x = 10
+  width = 200
+  action = addbutton
+  actionid = 5148111a-8cc2-4093-b227-10a284848a7d1688285886847
+  y = -10
+  label = Играть на JellyCraft
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://jellycraft.notion.site/jellycraft/JellyCraft-65c89df5651747c48b8f043d203b7e79%btnaction_splitter_fm%
+  x = -110
+  width = 100
+  action = addbutton
+  actionid = 5189ad48-9eb3-4230-8ff3-cb595c12c01c1688398599720
+  y = -140
+  label = Справочник
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://jellycraft.net/vk%btnaction_splitter_fm%
+  x = -110
+  width = 100
+  action = addbutton
+  actionid = 1bd7bcad-8744-4fd8-bbd3-9e031040bfb71688398599769
+  y = -165
+  label = ВКонтакте
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://jellycraft.net/telegram%btnaction_splitter_fm%
+  x = -110
+  width = 100
+  action = addbutton
+  actionid = 8f7928e7-4297-40aa-b70f-d5da2ac9fa171688398600020
+  y = -190
+  label = Telegram
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://jellycraft.net/discord%btnaction_splitter_fm%
+  x = -110
+  width = 100
+  action = addbutton
+  actionid = 61b9e69a-56c6-40c7-83de-77b2f269512a1688398615501
+  y = -215
+  label = Discord
+  height = 20
+}
+
+customization {
+  advanced_height = 25
+  path = config/fancymenu/logos/jellycraft.png
+  orientation = top-centered
+  x = -85
+  width = 170
+  action = addtexture
+  actionid = 797fcf73-9a1e-4767-ac75-4b786e1048351689873490459
+  y = 25
+  advanced_width = 170
+  height = 25
+}
+
