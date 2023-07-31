@@ -1,14 +1,13 @@
 name = "MinecraftCapes"
-filename = "MinecraftCapes Fabric 1.20.1-12.3.5.jar"
+filename = "MinecraftCapes Fabric 1.20.1-12.3.6.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/PJPdMxqc/MinecraftCapes Fabric 1.20.1-12.3.5.jar"
-hash-format = "sha512"
-hash = "f9549d3e7255b50cfb4bb80543a9670f51a18c41ae0c05b71a3ce97d11575e02bc492c5949efdfea688d820410c4a21c5fd01ee149323e6883a867ad2fc88f70"
+url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/kMNcV5rL/MinecraftCapes%20Fabric%201.20.1-12.3.6.jar"
+hash-format = "sha1"
+hash = "82eadf9752fabd5efa80153bb92bfb0f9b2e5975"
 
 [update]
 [update.modrinth]
 mod-id = "9gNVPfzw"
-version = "PJPdMxqc"
+version = "kMNcV5rL"
