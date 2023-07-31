@@ -1,0 +1,218 @@
+[
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 0.0
+      },
+      "endAngle": {
+        "radianAngle": 0.77448994
+      }
+    },
+    "name": "/rtp",
+    "color": 8388734,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/rtp"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/ender_pearl.png",
+      "cachedString": "minecraft:textures/item/ender_pearl.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 0.77448994
+      },
+      "endAngle": {
+        "radianAngle": 1.5489799
+      }
+    },
+    "name": "/spawn",
+    "color": 13882112,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/spawn"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/block/oak_log.png",
+      "cachedString": "minecraft:textures/block/oak_log.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 1.5489799
+      },
+      "endAngle": {
+        "radianAngle": 2.3234699
+      }
+    },
+    "name": "/homes",
+    "color": 6447871,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/homes"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/block/beacon.png",
+      "cachedString": "minecraft:textures/block/beacon.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 2.3234699
+      },
+      "endAngle": {
+        "radianAngle": 3.141593
+      }
+    },
+    "name": "/ec",
+    "color": 16711861,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/ec"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/block/obsidian.png",
+      "cachedString": "minecraft:textures/block/obsidian.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 3.141593
+      },
+      "endAngle": {
+        "radianAngle": 3.9269912
+      }
+    },
+    "name": "/ah",
+    "color": 10761355,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/ah"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/block/diamond_block.png",
+      "cachedString": "minecraft:textures/block/diamond_block.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 3.9269912
+      },
+      "endAngle": {
+        "radianAngle": 4.7123895
+      }
+    },
+    "name": "/change",
+    "color": 5991003,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/change"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/item/diamond.png",
+      "cachedString": "minecraft:textures/item/diamond.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 4.7123895
+      },
+      "endAngle": {
+        "radianAngle": 5.4977875
+      }
+    },
+    "name": "/sit",
+    "color": 4332983,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/sit"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/block/oak_planks.png",
+      "cachedString": "minecraft:textures/block/oak_planks.png"
+    }
+  },
+  {
+    "circleSlice": {
+      "startAngle": {
+        "radianAngle": 5.4977875
+      },
+      "endAngle": {
+        "radianAngle": 4.7683716E-7
+      }
+    },
+    "name": "/craft",
+    "color": 8991729,
+    "onLeftClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.ChatMessageActionProvider",
+      "Object": {
+        "message": "/craft"
+      }
+    },
+    "onRightClick": {
+      "RunnableType": "io.github.JumperOnJava.jjpizza.pizzamenu.actionproviders.NullActionProvider",
+      "Object": {}
+    },
+    "icon": {
+      "field_13353": "minecraft",
+      "field_13355": "textures/block/crafting_table_side.png",
+      "cachedString": "minecraft:textures/block/crafting_table_side.png"
+    }
+  }
+]
