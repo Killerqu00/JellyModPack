@@ -3,9 +3,10 @@ filename = "c2me-fabric-mc1.20.1-0.2.0+alpha.10.96.jar"
 side = "both"
 
 [download]
+mode = "url"
 url = "https://cdn.modrinth.com/data/VSNURh3q/versions/iaC5daGO/c2me-fabric-mc1.20.1-0.2.0%2Balpha.10.96.jar"
-hash-format = "sha1"
-hash = "99cbb40ca891a43db73931a52eae43d3dec8ed14"
+hash-format = "sha512"
+hash = "c1fe091bc71d8721996dfd7ba416a1126c2c53ba888ec7c4a30d4218e275f36228565c0c8a43a0ac2ca04128c27a297ea891ce07aec989ecb5493f5c1e908372"
 
 [update]
 [update.modrinth]

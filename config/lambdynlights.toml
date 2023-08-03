@@ -47,6 +47,7 @@ mode = "fancy"
 				villager = true
 				wolf = true
 				skeleton_horse = true
+				fishing_bobber = true
 				zombie_villager = true
 				goat = true
 				boat = true
