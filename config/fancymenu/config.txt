@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'JellyPack v1.0.0';
+S:customwindowtitle = 'JellyPack v1.2';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'false';
 
