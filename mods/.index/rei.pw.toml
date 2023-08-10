@@ -1,14 +1,14 @@
 name = "Roughly Enough Items"
-filename = "RoughlyEnoughItems-12.0.634.jar"
+filename = "RoughlyEnoughItems-12.0.645.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/nfn13YXA/versions/yp38DYcK/RoughlyEnoughItems-12.0.634.jar"
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/kq4TOe4i/RoughlyEnoughItems-12.0.645.jar"
 hash-format = "sha512"
-hash = "db661e3609b734592a1985f7ab68f64d58cf0aa2fd8bb0b8433c7a3d0b151aea661add9179868baa4a70fd03ee7821956d3982d55af2479aa9474f136ffbdbd7"
+hash = "f6833bde4353afbe6212bd220ac30ec2bdb5331a0ec2563c9ed6316fb5e61d00e8d70589853586f9f74e10ef57c53cca4d3c2fe755b732e874e2c45484b8040e"
 
 [update]
 [update.modrinth]
 mod-id = "nfn13YXA"
-version = "yp38DYcK"
+version = "kq4TOe4i"
